@@ -276,7 +276,7 @@ h6 {
   .nav-actions {
     position: static;
     margin-top: 20px;
-    flex-direction: column;
+    margin-left:20px;
     width: 100%;
   }
 
@@ -2896,6 +2896,7 @@ select:focus {
     top: 80px;
     left: -100%;
     width: 100%;
+    margin-bottom:16px;
     height: calc(100vh - 80px);
     background: white;
     flex-direction: column;
